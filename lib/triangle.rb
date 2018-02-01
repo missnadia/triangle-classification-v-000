@@ -15,6 +15,7 @@ class Triangle
       :isosceles
     else
       :scalene
+    end
   end
 
   def validate_triangle
